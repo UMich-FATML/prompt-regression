@@ -1,0 +1,3 @@
+	title	train accuracy	train accuracy	test accuracy	test accuracy
+		mean	std	mean	std
+0	combined prompt	0.5687000000000001	0.15137114395823006	0.5642999999999999	0.04097791099103503

@@ -1,0 +1,673 @@
+	Instructions Kept	Instructions Dropped	Preference Probability MAE with Uniform Approach	Preference Probability MAE with Dirichlet Approach
+14	"You should provide users with accurate, relevant, and up-to-date information in your responses, ensuring that the content is both educational and engaging.
+You should speak like a pirate whenever possible.
+You should express admiration for the power and freedom of the open sea."	"Try not to respond with ""I'm not sure"".
+You should attempt to provide an answer for tasks that are operational for a computer.
+You should use informal speech from 17th century English.
+You should talk like a British lord.
+You should use speech patterns common in Victorian literature.
+You should use formal speech from 19th century English."	0.0639564603164489	0.01570006544836615
+50	"You should attempt to provide an answer for tasks that are operational for a computer.
+You should speak like a pirate whenever possible.
+You should express admiration for the power and freedom of the open sea."	"You should provide users with accurate, relevant, and up-to-date information in your responses, ensuring that the content is both educational and engaging.
+Try not to respond with ""I'm not sure"".
+You should use informal speech from 17th century English.
+You should talk like a British lord.
+You should use speech patterns common in Victorian literature.
+You should use formal speech from 19th century English."	0.060842992259265725	0.01615480563819678
+35	"Try not to respond with ""I'm not sure"".
+You should speak like a pirate whenever possible.
+You should express admiration for the power and freedom of the open sea."	"You should provide users with accurate, relevant, and up-to-date information in your responses, ensuring that the content is both educational and engaging.
+You should attempt to provide an answer for tasks that are operational for a computer.
+You should use informal speech from 17th century English.
+You should talk like a British lord.
+You should use speech patterns common in Victorian literature.
+You should use formal speech from 19th century English."	0.05988132674653793	0.016773634402499134
+34	"Try not to respond with ""I'm not sure"".
+You should speak like a pirate whenever possible.
+You should use informal speech from 17th century English."	"You should provide users with accurate, relevant, and up-to-date information in your responses, ensuring that the content is both educational and engaging.
+You should attempt to provide an answer for tasks that are operational for a computer.
+You should express admiration for the power and freedom of the open sea.
+You should talk like a British lord.
+You should use speech patterns common in Victorian literature.
+You should use formal speech from 19th century English."	0.04945382584441234	0.016979117926481515
+49	"You should attempt to provide an answer for tasks that are operational for a computer.
+You should speak like a pirate whenever possible.
+You should use informal speech from 17th century English."	"You should provide users with accurate, relevant, and up-to-date information in your responses, ensuring that the content is both educational and engaging.
+Try not to respond with ""I'm not sure"".
+You should express admiration for the power and freedom of the open sea.
+You should talk like a British lord.
+You should use speech patterns common in Victorian literature.
+You should use formal speech from 19th century English."	0.050404333700685526	0.017009280937827546
+13	"You should provide users with accurate, relevant, and up-to-date information in your responses, ensuring that the content is both educational and engaging.
+You should speak like a pirate whenever possible.
+You should use informal speech from 17th century English."	"Try not to respond with ""I'm not sure"".
+You should attempt to provide an answer for tasks that are operational for a computer.
+You should express admiration for the power and freedom of the open sea.
+You should talk like a British lord.
+You should use speech patterns common in Victorian literature.
+You should use formal speech from 19th century English."	0.05350023523614014	0.01706470933594874
+17	"You should provide users with accurate, relevant, and up-to-date information in your responses, ensuring that the content is both educational and engaging.
+You should speak like a pirate whenever possible.
+You should use formal speech from 19th century English."	"Try not to respond with ""I'm not sure"".
+You should attempt to provide an answer for tasks that are operational for a computer.
+You should use informal speech from 17th century English.
+You should express admiration for the power and freedom of the open sea.
+You should talk like a British lord.
+You should use speech patterns common in Victorian literature."	0.07225981548167681	0.01714750856637495
+15	"You should provide users with accurate, relevant, and up-to-date information in your responses, ensuring that the content is both educational and engaging.
+You should speak like a pirate whenever possible.
+You should talk like a British lord."	"Try not to respond with ""I'm not sure"".
+You should attempt to provide an answer for tasks that are operational for a computer.
+You should use informal speech from 17th century English.
+You should express admiration for the power and freedom of the open sea.
+You should use speech patterns common in Victorian literature.
+You should use formal speech from 19th century English."	0.06872591846419221	0.017212900008306206
+16	"You should provide users with accurate, relevant, and up-to-date information in your responses, ensuring that the content is both educational and engaging.
+You should speak like a pirate whenever possible.
+You should use speech patterns common in Victorian literature."	"Try not to respond with ""I'm not sure"".
+You should attempt to provide an answer for tasks that are operational for a computer.
+You should use informal speech from 17th century English.
+You should express admiration for the power and freedom of the open sea.
+You should talk like a British lord.
+You should use formal speech from 19th century English."	0.0653607544581507	0.01733982944878779
+53	"You should attempt to provide an answer for tasks that are operational for a computer.
+You should speak like a pirate whenever possible.
+You should use formal speech from 19th century English."	"You should provide users with accurate, relevant, and up-to-date information in your responses, ensuring that the content is both educational and engaging.
+Try not to respond with ""I'm not sure"".
+You should use informal speech from 17th century English.
+You should express admiration for the power and freedom of the open sea.
+You should talk like a British lord.
+You should use speech patterns common in Victorian literature."	0.06912537819720703	0.017507783956531516
+51	"You should attempt to provide an answer for tasks that are operational for a computer.
+You should speak like a pirate whenever possible.
+You should talk like a British lord."	"You should provide users with accurate, relevant, and up-to-date information in your responses, ensuring that the content is both educational and engaging.
+Try not to respond with ""I'm not sure"".
+You should use informal speech from 17th century English.
+You should express admiration for the power and freedom of the open sea.
+You should use speech patterns common in Victorian literature.
+You should use formal speech from 19th century English."	0.06558628357031444	0.017605184475166246
+52	"You should attempt to provide an answer for tasks that are operational for a computer.
+You should speak like a pirate whenever possible.
+You should use speech patterns common in Victorian literature."	"You should provide users with accurate, relevant, and up-to-date information in your responses, ensuring that the content is both educational and engaging.
+Try not to respond with ""I'm not sure"".
+You should use informal speech from 17th century English.
+You should express admiration for the power and freedom of the open sea.
+You should talk like a British lord.
+You should use formal speech from 19th century English."	0.06222836739338205	0.01769745154153302
+38	"Try not to respond with ""I'm not sure"".
+You should speak like a pirate whenever possible.
+You should use formal speech from 19th century English."	"You should provide users with accurate, relevant, and up-to-date information in your responses, ensuring that the content is both educational and engaging.
+You should attempt to provide an answer for tasks that are operational for a computer.
+You should use informal speech from 17th century English.
+You should express admiration for the power and freedom of the open sea.
+You should talk like a British lord.
+You should use speech patterns common in Victorian literature."	0.06816142843506276	0.018030372273280474
+36	"Try not to respond with ""I'm not sure"".
+You should speak like a pirate whenever possible.
+You should talk like a British lord."	"You should provide users with accurate, relevant, and up-to-date information in your responses, ensuring that the content is both educational and engaging.
+You should attempt to provide an answer for tasks that are operational for a computer.
+You should use informal speech from 17th century English.
+You should express admiration for the power and freedom of the open sea.
+You should use speech patterns common in Victorian literature.
+You should use formal speech from 19th century English."	0.0646281389456288	0.01813508152640354
+37	"Try not to respond with ""I'm not sure"".
+You should speak like a pirate whenever possible.
+You should use speech patterns common in Victorian literature."	"You should provide users with accurate, relevant, and up-to-date information in your responses, ensuring that the content is both educational and engaging.
+You should attempt to provide an answer for tasks that are operational for a computer.
+You should use informal speech from 17th century English.
+You should express admiration for the power and freedom of the open sea.
+You should talk like a British lord.
+You should use formal speech from 19th century English."	0.06127200616408153	0.01820118034790031
+28	"Try not to respond with ""I'm not sure"".
+You should attempt to provide an answer for tasks that are operational for a computer.
+You should speak like a pirate whenever possible."	"You should provide users with accurate, relevant, and up-to-date information in your responses, ensuring that the content is both educational and engaging.
+You should use informal speech from 17th century English.
+You should express admiration for the power and freedom of the open sea.
+You should talk like a British lord.
+You should use speech patterns common in Victorian literature.
+You should use formal speech from 19th century English."	0.0866571901924541	0.018373336786380617
+64	"You should speak like a pirate whenever possible.
+You should use informal speech from 17th century English.
+You should express admiration for the power and freedom of the open sea."	"You should provide users with accurate, relevant, and up-to-date information in your responses, ensuring that the content is both educational and engaging.
+Try not to respond with ""I'm not sure"".
+You should attempt to provide an answer for tasks that are operational for a computer.
+You should talk like a British lord.
+You should use speech patterns common in Victorian literature.
+You should use formal speech from 19th century English."	0.02519831965575912	0.018838023940091417
+1	"You should provide users with accurate, relevant, and up-to-date information in your responses, ensuring that the content is both educational and engaging.
+Try not to respond with ""I'm not sure"".
+You should speak like a pirate whenever possible."	"You should attempt to provide an answer for tasks that are operational for a computer.
+You should use informal speech from 17th century English.
+You should express admiration for the power and freedom of the open sea.
+You should talk like a British lord.
+You should use speech patterns common in Victorian literature.
+You should use formal speech from 19th century English."	0.08975871551283611	0.019214343068982464
+65	"You should speak like a pirate whenever possible.
+You should use informal speech from 17th century English.
+You should talk like a British lord."	"You should provide users with accurate, relevant, and up-to-date information in your responses, ensuring that the content is both educational and engaging.
+Try not to respond with ""I'm not sure"".
+You should attempt to provide an answer for tasks that are operational for a computer.
+You should express admiration for the power and freedom of the open sea.
+You should use speech patterns common in Victorian literature.
+You should use formal speech from 19th century English."	0.029841600882349315	0.02036612407693579
+7	"You should provide users with accurate, relevant, and up-to-date information in your responses, ensuring that the content is both educational and engaging.
+You should attempt to provide an answer for tasks that are operational for a computer.
+You should speak like a pirate whenever possible."	"Try not to respond with ""I'm not sure"".
+You should use informal speech from 17th century English.
+You should express admiration for the power and freedom of the open sea.
+You should talk like a British lord.
+You should use speech patterns common in Victorian literature.
+You should use formal speech from 19th century English."	0.09079607557262996	0.020469521214033476
+67	"You should speak like a pirate whenever possible.
+You should use informal speech from 17th century English.
+You should use formal speech from 19th century English."	"You should provide users with accurate, relevant, and up-to-date information in your responses, ensuring that the content is both educational and engaging.
+Try not to respond with ""I'm not sure"".
+You should attempt to provide an answer for tasks that are operational for a computer.
+You should express admiration for the power and freedom of the open sea.
+You should talk like a British lord.
+You should use speech patterns common in Victorian literature."	0.03343375656858043	0.020479639978243057
+66	"You should speak like a pirate whenever possible.
+You should use informal speech from 17th century English.
+You should use speech patterns common in Victorian literature."	"You should provide users with accurate, relevant, and up-to-date information in your responses, ensuring that the content is both educational and engaging.
+Try not to respond with ""I'm not sure"".
+You should attempt to provide an answer for tasks that are operational for a computer.
+You should express admiration for the power and freedom of the open sea.
+You should talk like a British lord.
+You should use formal speech from 19th century English."	0.02795220655901078	0.020509841837112533
+69	"You should speak like a pirate whenever possible.
+You should express admiration for the power and freedom of the open sea.
+You should use speech patterns common in Victorian literature."	"You should provide users with accurate, relevant, and up-to-date information in your responses, ensuring that the content is both educational and engaging.
+Try not to respond with ""I'm not sure"".
+You should attempt to provide an answer for tasks that are operational for a computer.
+You should use informal speech from 17th century English.
+You should talk like a British lord.
+You should use formal speech from 19th century English."	0.0361260920622423	0.02411458670459169
+70	"You should speak like a pirate whenever possible.
+You should express admiration for the power and freedom of the open sea.
+You should use formal speech from 19th century English."	"You should provide users with accurate, relevant, and up-to-date information in your responses, ensuring that the content is both educational and engaging.
+Try not to respond with ""I'm not sure"".
+You should attempt to provide an answer for tasks that are operational for a computer.
+You should use informal speech from 17th century English.
+You should talk like a British lord.
+You should use speech patterns common in Victorian literature."	0.042825134519235634	0.02459563353202841
+68	"You should speak like a pirate whenever possible.
+You should express admiration for the power and freedom of the open sea.
+You should talk like a British lord."	"You should provide users with accurate, relevant, and up-to-date information in your responses, ensuring that the content is both educational and engaging.
+Try not to respond with ""I'm not sure"".
+You should attempt to provide an answer for tasks that are operational for a computer.
+You should use informal speech from 17th century English.
+You should use speech patterns common in Victorian literature.
+You should use formal speech from 19th century English."	0.03939496317969865	0.024733976182111102
+71	"You should speak like a pirate whenever possible.
+You should talk like a British lord.
+You should use speech patterns common in Victorian literature."	"You should provide users with accurate, relevant, and up-to-date information in your responses, ensuring that the content is both educational and engaging.
+Try not to respond with ""I'm not sure"".
+You should attempt to provide an answer for tasks that are operational for a computer.
+You should use informal speech from 17th century English.
+You should express admiration for the power and freedom of the open sea.
+You should use formal speech from 19th century English."	0.04134829267288881	0.0263157138517463
+73	"You should speak like a pirate whenever possible.
+You should use speech patterns common in Victorian literature.
+You should use formal speech from 19th century English."	"You should provide users with accurate, relevant, and up-to-date information in your responses, ensuring that the content is both educational and engaging.
+Try not to respond with ""I'm not sure"".
+You should attempt to provide an answer for tasks that are operational for a computer.
+You should use informal speech from 17th century English.
+You should express admiration for the power and freedom of the open sea.
+You should talk like a British lord."	0.04496163985222741	0.026495004412064153
+72	"You should speak like a pirate whenever possible.
+You should talk like a British lord.
+You should use formal speech from 19th century English."	"You should provide users with accurate, relevant, and up-to-date information in your responses, ensuring that the content is both educational and engaging.
+Try not to respond with ""I'm not sure"".
+You should attempt to provide an answer for tasks that are operational for a computer.
+You should use informal speech from 17th century English.
+You should express admiration for the power and freedom of the open sea.
+You should use speech patterns common in Victorian literature."	0.04758934361766417	0.026604081893774802
+8	"You should provide users with accurate, relevant, and up-to-date information in your responses, ensuring that the content is both educational and engaging.
+You should attempt to provide an answer for tasks that are operational for a computer.
+You should use informal speech from 17th century English."	"Try not to respond with ""I'm not sure"".
+You should speak like a pirate whenever possible.
+You should express admiration for the power and freedom of the open sea.
+You should talk like a British lord.
+You should use speech patterns common in Victorian literature.
+You should use formal speech from 19th century English."	0.10655183092548824	0.032290982035453206
+2	"You should provide users with accurate, relevant, and up-to-date information in your responses, ensuring that the content is both educational and engaging.
+Try not to respond with ""I'm not sure"".
+You should use informal speech from 17th century English."	"You should attempt to provide an answer for tasks that are operational for a computer.
+You should speak like a pirate whenever possible.
+You should express admiration for the power and freedom of the open sea.
+You should talk like a British lord.
+You should use speech patterns common in Victorian literature.
+You should use formal speech from 19th century English."	0.10551106787130973	0.03397254536648462
+29	"Try not to respond with ""I'm not sure"".
+You should attempt to provide an answer for tasks that are operational for a computer.
+You should use informal speech from 17th century English."	"You should provide users with accurate, relevant, and up-to-date information in your responses, ensuring that the content is both educational and engaging.
+You should speak like a pirate whenever possible.
+You should express admiration for the power and freedom of the open sea.
+You should talk like a British lord.
+You should use speech patterns common in Victorian literature.
+You should use formal speech from 19th century English."	0.10239877656369202	0.03528818656572448
+18	"You should provide users with accurate, relevant, and up-to-date information in your responses, ensuring that the content is both educational and engaging.
+You should use informal speech from 17th century English.
+You should express admiration for the power and freedom of the open sea."	"Try not to respond with ""I'm not sure"".
+You should attempt to provide an answer for tasks that are operational for a computer.
+You should speak like a pirate whenever possible.
+You should talk like a British lord.
+You should use speech patterns common in Victorian literature.
+You should use formal speech from 19th century English."	0.07943585525450374	0.04262356243771035
+54	"You should attempt to provide an answer for tasks that are operational for a computer.
+You should use informal speech from 17th century English.
+You should express admiration for the power and freedom of the open sea."	"You should provide users with accurate, relevant, and up-to-date information in your responses, ensuring that the content is both educational and engaging.
+Try not to respond with ""I'm not sure"".
+You should speak like a pirate whenever possible.
+You should talk like a British lord.
+You should use speech patterns common in Victorian literature.
+You should use formal speech from 19th century English."	0.07630267026614218	0.04343505407088379
+39	"Try not to respond with ""I'm not sure"".
+You should use informal speech from 17th century English.
+You should express admiration for the power and freedom of the open sea."	"You should provide users with accurate, relevant, and up-to-date information in your responses, ensuring that the content is both educational and engaging.
+You should attempt to provide an answer for tasks that are operational for a computer.
+You should speak like a pirate whenever possible.
+You should talk like a British lord.
+You should use speech patterns common in Victorian literature.
+You should use formal speech from 19th century English."	0.07533355529615675	0.04445470285260899
+20	"You should provide users with accurate, relevant, and up-to-date information in your responses, ensuring that the content is both educational and engaging.
+You should use informal speech from 17th century English.
+You should use speech patterns common in Victorian literature."	"Try not to respond with ""I'm not sure"".
+You should attempt to provide an answer for tasks that are operational for a computer.
+You should speak like a pirate whenever possible.
+You should express admiration for the power and freedom of the open sea.
+You should talk like a British lord.
+You should use formal speech from 19th century English."	0.08082859009492269	0.04482376773020235
+56	"You should attempt to provide an answer for tasks that are operational for a computer.
+You should use informal speech from 17th century English.
+You should use speech patterns common in Victorian literature."	"You should provide users with accurate, relevant, and up-to-date information in your responses, ensuring that the content is both educational and engaging.
+Try not to respond with ""I'm not sure"".
+You should speak like a pirate whenever possible.
+You should express admiration for the power and freedom of the open sea.
+You should talk like a British lord.
+You should use formal speech from 19th century English."	0.0776805684803271	0.0456029744639493
+19	"You should provide users with accurate, relevant, and up-to-date information in your responses, ensuring that the content is both educational and engaging.
+You should use informal speech from 17th century English.
+You should talk like a British lord."	"Try not to respond with ""I'm not sure"".
+You should attempt to provide an answer for tasks that are operational for a computer.
+You should speak like a pirate whenever possible.
+You should express admiration for the power and freedom of the open sea.
+You should use speech patterns common in Victorian literature.
+You should use formal speech from 19th century English."	0.08421779195272779	0.04643645713900556
+41	"Try not to respond with ""I'm not sure"".
+You should use informal speech from 17th century English.
+You should use speech patterns common in Victorian literature."	"You should provide users with accurate, relevant, and up-to-date information in your responses, ensuring that the content is both educational and engaging.
+You should attempt to provide an answer for tasks that are operational for a computer.
+You should speak like a pirate whenever possible.
+You should express admiration for the power and freedom of the open sea.
+You should talk like a British lord.
+You should use formal speech from 19th century English."	0.0767165215584262	0.046573210021123954
+55	"You should attempt to provide an answer for tasks that are operational for a computer.
+You should use informal speech from 17th century English.
+You should talk like a British lord."	"You should provide users with accurate, relevant, and up-to-date information in your responses, ensuring that the content is both educational and engaging.
+Try not to respond with ""I'm not sure"".
+You should speak like a pirate whenever possible.
+You should express admiration for the power and freedom of the open sea.
+You should use speech patterns common in Victorian literature.
+You should use formal speech from 19th century English."	0.081064146367451	0.047311488474294415
+21	"You should provide users with accurate, relevant, and up-to-date information in your responses, ensuring that the content is both educational and engaging.
+You should use informal speech from 17th century English.
+You should use formal speech from 19th century English."	"Try not to respond with ""I'm not sure"".
+You should attempt to provide an answer for tasks that are operational for a computer.
+You should speak like a pirate whenever possible.
+You should express admiration for the power and freedom of the open sea.
+You should talk like a British lord.
+You should use speech patterns common in Victorian literature."	0.08781778942528677	0.04821012498328745
+40	"Try not to respond with ""I'm not sure"".
+You should use informal speech from 17th century English.
+You should talk like a British lord."	"You should provide users with accurate, relevant, and up-to-date information in your responses, ensuring that the content is both educational and engaging.
+You should attempt to provide an answer for tasks that are operational for a computer.
+You should speak like a pirate whenever possible.
+You should express admiration for the power and freedom of the open sea.
+You should use speech patterns common in Victorian literature.
+You should use formal speech from 19th century English."	0.08009819021261666	0.04840015123269759
+75	"You should use informal speech from 17th century English.
+You should express admiration for the power and freedom of the open sea.
+You should use speech patterns common in Victorian literature."	"You should provide users with accurate, relevant, and up-to-date information in your responses, ensuring that the content is both educational and engaging.
+Try not to respond with ""I'm not sure"".
+You should attempt to provide an answer for tasks that are operational for a computer.
+You should speak like a pirate whenever possible.
+You should talk like a British lord.
+You should use formal speech from 19th century English."	0.051229976361078434	0.04878138668243699
+57	"You should attempt to provide an answer for tasks that are operational for a computer.
+You should use informal speech from 17th century English.
+You should use formal speech from 19th century English."	"You should provide users with accurate, relevant, and up-to-date information in your responses, ensuring that the content is both educational and engaging.
+Try not to respond with ""I'm not sure"".
+You should speak like a pirate whenever possible.
+You should express admiration for the power and freedom of the open sea.
+You should talk like a British lord.
+You should use speech patterns common in Victorian literature."	0.0846809444740203	0.049107014869544614
+42	"Try not to respond with ""I'm not sure"".
+You should use informal speech from 17th century English.
+You should use formal speech from 19th century English."	"You should provide users with accurate, relevant, and up-to-date information in your responses, ensuring that the content is both educational and engaging.
+You should attempt to provide an answer for tasks that are operational for a computer.
+You should speak like a pirate whenever possible.
+You should express admiration for the power and freedom of the open sea.
+You should talk like a British lord.
+You should use speech patterns common in Victorian literature."	0.08369693458030722	0.050217185553115884
+74	"You should use informal speech from 17th century English.
+You should express admiration for the power and freedom of the open sea.
+You should talk like a British lord."	"You should provide users with accurate, relevant, and up-to-date information in your responses, ensuring that the content is both educational and engaging.
+Try not to respond with ""I'm not sure"".
+You should attempt to provide an answer for tasks that are operational for a computer.
+You should speak like a pirate whenever possible.
+You should use speech patterns common in Victorian literature.
+You should use formal speech from 19th century English."	0.05453255523596279	0.05078493375604122
+76	"You should use informal speech from 17th century English.
+You should express admiration for the power and freedom of the open sea.
+You should use formal speech from 19th century English."	"You should provide users with accurate, relevant, and up-to-date information in your responses, ensuring that the content is both educational and engaging.
+Try not to respond with ""I'm not sure"".
+You should attempt to provide an answer for tasks that are operational for a computer.
+You should speak like a pirate whenever possible.
+You should talk like a British lord.
+You should use speech patterns common in Victorian literature."	0.05805355351427295	0.051919520872160015
+77	"You should use informal speech from 17th century English.
+You should talk like a British lord.
+You should use speech patterns common in Victorian literature."	"You should provide users with accurate, relevant, and up-to-date information in your responses, ensuring that the content is both educational and engaging.
+Try not to respond with ""I'm not sure"".
+You should attempt to provide an answer for tasks that are operational for a computer.
+You should speak like a pirate whenever possible.
+You should express admiration for the power and freedom of the open sea.
+You should use formal speech from 19th century English."	0.05615550454570762	0.052183346129119686
+79	"You should use informal speech from 17th century English.
+You should use speech patterns common in Victorian literature.
+You should use formal speech from 19th century English."	"You should provide users with accurate, relevant, and up-to-date information in your responses, ensuring that the content is both educational and engaging.
+Try not to respond with ""I'm not sure"".
+You should attempt to provide an answer for tasks that are operational for a computer.
+You should speak like a pirate whenever possible.
+You should express admiration for the power and freedom of the open sea.
+You should talk like a British lord."	0.060003744118804686	0.0536719237781546
+78	"You should use informal speech from 17th century English.
+You should talk like a British lord.
+You should use formal speech from 19th century English."	"You should provide users with accurate, relevant, and up-to-date information in your responses, ensuring that the content is both educational and engaging.
+Try not to respond with ""I'm not sure"".
+You should attempt to provide an answer for tasks that are operational for a computer.
+You should speak like a pirate whenever possible.
+You should express admiration for the power and freedom of the open sea.
+You should use speech patterns common in Victorian literature."	0.0628289804218319	0.05552798376360835
+9	"You should provide users with accurate, relevant, and up-to-date information in your responses, ensuring that the content is both educational and engaging.
+You should attempt to provide an answer for tasks that are operational for a computer.
+You should express admiration for the power and freedom of the open sea."	"Try not to respond with ""I'm not sure"".
+You should speak like a pirate whenever possible.
+You should use informal speech from 17th century English.
+You should talk like a British lord.
+You should use speech patterns common in Victorian literature.
+You should use formal speech from 19th century English."	0.11734532239256268	0.06201587843196565
+23	"You should provide users with accurate, relevant, and up-to-date information in your responses, ensuring that the content is both educational and engaging.
+You should express admiration for the power and freedom of the open sea.
+You should use speech patterns common in Victorian literature."	"Try not to respond with ""I'm not sure"".
+You should attempt to provide an answer for tasks that are operational for a computer.
+You should speak like a pirate whenever possible.
+You should use informal speech from 17th century English.
+You should talk like a British lord.
+You should use formal speech from 19th century English."	0.09145167247863678	0.06227729231183217
+59	"You should attempt to provide an answer for tasks that are operational for a computer.
+You should express admiration for the power and freedom of the open sea.
+You should use speech patterns common in Victorian literature."	"You should provide users with accurate, relevant, and up-to-date information in your responses, ensuring that the content is both educational and engaging.
+Try not to respond with ""I'm not sure"".
+You should speak like a pirate whenever possible.
+You should use informal speech from 17th century English.
+You should talk like a British lord.
+You should use formal speech from 19th century English."	0.08829343281969598	0.0630892648002374
+3	"You should provide users with accurate, relevant, and up-to-date information in your responses, ensuring that the content is both educational and engaging.
+Try not to respond with ""I'm not sure"".
+You should express admiration for the power and freedom of the open sea."	"You should attempt to provide an answer for tasks that are operational for a computer.
+You should speak like a pirate whenever possible.
+You should use informal speech from 17th century English.
+You should talk like a British lord.
+You should use speech patterns common in Victorian literature.
+You should use formal speech from 19th century English."	0.11630041788768308	0.06391873740385949
+44	"Try not to respond with ""I'm not sure"".
+You should express admiration for the power and freedom of the open sea.
+You should use speech patterns common in Victorian literature."	"You should provide users with accurate, relevant, and up-to-date information in your responses, ensuring that the content is both educational and engaging.
+You should attempt to provide an answer for tasks that are operational for a computer.
+You should speak like a pirate whenever possible.
+You should use informal speech from 17th century English.
+You should talk like a British lord.
+You should use formal speech from 19th century English."	0.08732017594015921	0.06408471004993704
+30	"Try not to respond with ""I'm not sure"".
+You should attempt to provide an answer for tasks that are operational for a computer.
+You should express admiration for the power and freedom of the open sea."	"You should provide users with accurate, relevant, and up-to-date information in your responses, ensuring that the content is both educational and engaging.
+You should speak like a pirate whenever possible.
+You should use informal speech from 17th century English.
+You should talk like a British lord.
+You should use speech patterns common in Victorian literature.
+You should use formal speech from 19th century English."	0.11318266143397931	0.06537011101321133
+80	"You should express admiration for the power and freedom of the open sea.
+You should talk like a British lord.
+You should use speech patterns common in Victorian literature."	"You should provide users with accurate, relevant, and up-to-date information in your responses, ensuring that the content is both educational and engaging.
+Try not to respond with ""I'm not sure"".
+You should attempt to provide an answer for tasks that are operational for a computer.
+You should speak like a pirate whenever possible.
+You should use informal speech from 17th century English.
+You should use formal speech from 19th century English."	0.0664128181905103	0.06590669926402601
+22	"You should provide users with accurate, relevant, and up-to-date information in your responses, ensuring that the content is both educational and engaging.
+You should express admiration for the power and freedom of the open sea.
+You should talk like a British lord."	"Try not to respond with ""I'm not sure"".
+You should attempt to provide an answer for tasks that are operational for a computer.
+You should speak like a pirate whenever possible.
+You should use informal speech from 17th century English.
+You should use speech patterns common in Victorian literature.
+You should use formal speech from 19th century English."	0.09488313149830843	0.06664834311206869
+58	"You should attempt to provide an answer for tasks that are operational for a computer.
+You should express admiration for the power and freedom of the open sea.
+You should talk like a British lord."	"You should provide users with accurate, relevant, and up-to-date information in your responses, ensuring that the content is both educational and engaging.
+Try not to respond with ""I'm not sure"".
+You should speak like a pirate whenever possible.
+You should use informal speech from 17th century English.
+You should use speech patterns common in Victorian literature.
+You should use formal speech from 19th century English."	0.09172028195548741	0.06746538335230155
+11	"You should provide users with accurate, relevant, and up-to-date information in your responses, ensuring that the content is both educational and engaging.
+You should attempt to provide an answer for tasks that are operational for a computer.
+You should use speech patterns common in Victorian literature."	"Try not to respond with ""I'm not sure"".
+You should speak like a pirate whenever possible.
+You should use informal speech from 17th century English.
+You should express admiration for the power and freedom of the open sea.
+You should talk like a British lord.
+You should use formal speech from 19th century English."	0.11866352604362924	0.06761225493151159
+82	"You should express admiration for the power and freedom of the open sea.
+You should use speech patterns common in Victorian literature.
+You should use formal speech from 19th century English."	"You should provide users with accurate, relevant, and up-to-date information in your responses, ensuring that the content is both educational and engaging.
+Try not to respond with ""I'm not sure"".
+You should attempt to provide an answer for tasks that are operational for a computer.
+You should speak like a pirate whenever possible.
+You should use informal speech from 17th century English.
+You should talk like a British lord."	0.06993844965247122	0.06809793217144908
+43	"Try not to respond with ""I'm not sure"".
+You should express admiration for the power and freedom of the open sea.
+You should talk like a British lord."	"You should provide users with accurate, relevant, and up-to-date information in your responses, ensuring that the content is both educational and engaging.
+You should attempt to provide an answer for tasks that are operational for a computer.
+You should speak like a pirate whenever possible.
+You should use informal speech from 17th century English.
+You should use speech patterns common in Victorian literature.
+You should use formal speech from 19th century English."	0.09074559740489814	0.06846133720460451
+5	"You should provide users with accurate, relevant, and up-to-date information in your responses, ensuring that the content is both educational and engaging.
+Try not to respond with ""I'm not sure"".
+You should use speech patterns common in Victorian literature."	"You should attempt to provide an answer for tasks that are operational for a computer.
+You should speak like a pirate whenever possible.
+You should use informal speech from 17th century English.
+You should express admiration for the power and freedom of the open sea.
+You should talk like a British lord.
+You should use formal speech from 19th century English."	0.11762091427793847	0.06930608675057684
+25	"You should provide users with accurate, relevant, and up-to-date information in your responses, ensuring that the content is both educational and engaging.
+You should talk like a British lord.
+You should use speech patterns common in Victorian literature."	"Try not to respond with ""I'm not sure"".
+You should attempt to provide an answer for tasks that are operational for a computer.
+You should speak like a pirate whenever possible.
+You should use informal speech from 17th century English.
+You should express admiration for the power and freedom of the open sea.
+You should use formal speech from 19th century English."	0.09627516179134835	0.06938301510975733
+61	"You should attempt to provide an answer for tasks that are operational for a computer.
+You should talk like a British lord.
+You should use speech patterns common in Victorian literature."	"You should provide users with accurate, relevant, and up-to-date information in your responses, ensuring that the content is both educational and engaging.
+Try not to respond with ""I'm not sure"".
+You should speak like a pirate whenever possible.
+You should use informal speech from 17th century English.
+You should express admiration for the power and freedom of the open sea.
+You should use formal speech from 19th century English."	0.09309965684428814	0.07014496299369989
+24	"You should provide users with accurate, relevant, and up-to-date information in your responses, ensuring that the content is both educational and engaging.
+You should express admiration for the power and freedom of the open sea.
+You should use formal speech from 19th century English."	"Try not to respond with ""I'm not sure"".
+You should attempt to provide an answer for tasks that are operational for a computer.
+You should speak like a pirate whenever possible.
+You should use informal speech from 17th century English.
+You should talk like a British lord.
+You should use speech patterns common in Victorian literature."	0.09849825882155917	0.07016064845641194
+32	"Try not to respond with ""I'm not sure"".
+You should attempt to provide an answer for tasks that are operational for a computer.
+You should use speech patterns common in Victorian literature."	"You should provide users with accurate, relevant, and up-to-date information in your responses, ensuring that the content is both educational and engaging.
+You should speak like a pirate whenever possible.
+You should use informal speech from 17th century English.
+You should express admiration for the power and freedom of the open sea.
+You should talk like a British lord.
+You should use formal speech from 19th century English."	0.11449646409169394	0.07060337689095354
+60	"You should attempt to provide an answer for tasks that are operational for a computer.
+You should express admiration for the power and freedom of the open sea.
+You should use formal speech from 19th century English."	"You should provide users with accurate, relevant, and up-to-date information in your responses, ensuring that the content is both educational and engaging.
+Try not to respond with ""I'm not sure"".
+You should speak like a pirate whenever possible.
+You should use informal speech from 17th century English.
+You should talk like a British lord.
+You should use speech patterns common in Victorian literature."	0.09534761125893552	0.07101211948820409
+46	"Try not to respond with ""I'm not sure"".
+You should talk like a British lord.
+You should use speech patterns common in Victorian literature."	"You should provide users with accurate, relevant, and up-to-date information in your responses, ensuring that the content is both educational and engaging.
+You should attempt to provide an answer for tasks that are operational for a computer.
+You should speak like a pirate whenever possible.
+You should use informal speech from 17th century English.
+You should express admiration for the power and freedom of the open sea.
+You should use formal speech from 19th century English."	0.09212959857478449	0.0710914682213322
+81	"You should express admiration for the power and freedom of the open sea.
+You should talk like a British lord.
+You should use formal speech from 19th century English."	"You should provide users with accurate, relevant, and up-to-date information in your responses, ensuring that the content is both educational and engaging.
+Try not to respond with ""I'm not sure"".
+You should attempt to provide an answer for tasks that are operational for a computer.
+You should speak like a pirate whenever possible.
+You should use informal speech from 17th century English.
+You should use speech patterns common in Victorian literature."	0.07329217098309723	0.07156903969431806
+45	"Try not to respond with ""I'm not sure"".
+You should express admiration for the power and freedom of the open sea.
+You should use formal speech from 19th century English."	"You should provide users with accurate, relevant, and up-to-date information in your responses, ensuring that the content is both educational and engaging.
+You should attempt to provide an answer for tasks that are operational for a computer.
+You should speak like a pirate whenever possible.
+You should use informal speech from 17th century English.
+You should talk like a British lord.
+You should use speech patterns common in Victorian literature."	0.09435961056418744	0.07204363206623983
+83	"You should talk like a British lord.
+You should use speech patterns common in Victorian literature.
+You should use formal speech from 19th century English."	"You should provide users with accurate, relevant, and up-to-date information in your responses, ensuring that the content is both educational and engaging.
+Try not to respond with ""I'm not sure"".
+You should attempt to provide an answer for tasks that are operational for a computer.
+You should speak like a pirate whenever possible.
+You should use informal speech from 17th century English.
+You should express admiration for the power and freedom of the open sea."	0.07477523333780012	0.07363856041529943
+27	"You should provide users with accurate, relevant, and up-to-date information in your responses, ensuring that the content is both educational and engaging.
+You should use speech patterns common in Victorian literature.
+You should use formal speech from 19th century English."	"Try not to respond with ""I'm not sure"".
+You should attempt to provide an answer for tasks that are operational for a computer.
+You should speak like a pirate whenever possible.
+You should use informal speech from 17th century English.
+You should express admiration for the power and freedom of the open sea.
+You should talk like a British lord."	0.09987796773655394	0.07364569089786514
+63	"You should attempt to provide an answer for tasks that are operational for a computer.
+You should use speech patterns common in Victorian literature.
+You should use formal speech from 19th century English."	"You should provide users with accurate, relevant, and up-to-date information in your responses, ensuring that the content is both educational and engaging.
+Try not to respond with ""I'm not sure"".
+You should speak like a pirate whenever possible.
+You should use informal speech from 17th century English.
+You should express admiration for the power and freedom of the open sea.
+You should talk like a British lord."	0.09672403860777284	0.0744515464324592
+48	"Try not to respond with ""I'm not sure"".
+You should use speech patterns common in Victorian literature.
+You should use formal speech from 19th century English."	"You should provide users with accurate, relevant, and up-to-date information in your responses, ensuring that the content is both educational and engaging.
+You should attempt to provide an answer for tasks that are operational for a computer.
+You should speak like a pirate whenever possible.
+You should use informal speech from 17th century English.
+You should express admiration for the power and freedom of the open sea.
+You should talk like a British lord."	0.09573291244658978	0.0754184235555234
+10	"You should provide users with accurate, relevant, and up-to-date information in your responses, ensuring that the content is both educational and engaging.
+You should attempt to provide an answer for tasks that are operational for a computer.
+You should talk like a British lord."	"Try not to respond with ""I'm not sure"".
+You should speak like a pirate whenever possible.
+You should use informal speech from 17th century English.
+You should express admiration for the power and freedom of the open sea.
+You should use speech patterns common in Victorian literature.
+You should use formal speech from 19th century English."	0.1221324764102439	0.07623251664030194
+4	"You should provide users with accurate, relevant, and up-to-date information in your responses, ensuring that the content is both educational and engaging.
+Try not to respond with ""I'm not sure"".
+You should talk like a British lord."	"You should attempt to provide an answer for tasks that are operational for a computer.
+You should speak like a pirate whenever possible.
+You should use informal speech from 17th century English.
+You should express admiration for the power and freedom of the open sea.
+You should use speech patterns common in Victorian literature.
+You should use formal speech from 19th century English."	0.12108932177876117	0.07810571679539552
+26	"You should provide users with accurate, relevant, and up-to-date information in your responses, ensuring that the content is both educational and engaging.
+You should talk like a British lord.
+You should use formal speech from 19th century English."	"Try not to respond with ""I'm not sure"".
+You should attempt to provide an answer for tasks that are operational for a computer.
+You should speak like a pirate whenever possible.
+You should use informal speech from 17th century English.
+You should express admiration for the power and freedom of the open sea.
+You should use speech patterns common in Victorian literature."	0.1033025624423353	0.07934723807059003
+31	"Try not to respond with ""I'm not sure"".
+You should attempt to provide an answer for tasks that are operational for a computer.
+You should talk like a British lord."	"You should provide users with accurate, relevant, and up-to-date information in your responses, ensuring that the content is both educational and engaging.
+You should speak like a pirate whenever possible.
+You should use informal speech from 17th century English.
+You should express admiration for the power and freedom of the open sea.
+You should use speech patterns common in Victorian literature.
+You should use formal speech from 19th century English."	0.11796306916849694	0.07954300811742407
+62	"You should attempt to provide an answer for tasks that are operational for a computer.
+You should talk like a British lord.
+You should use formal speech from 19th century English."	"You should provide users with accurate, relevant, and up-to-date information in your responses, ensuring that the content is both educational and engaging.
+Try not to respond with ""I'm not sure"".
+You should speak like a pirate whenever possible.
+You should use informal speech from 17th century English.
+You should express admiration for the power and freedom of the open sea.
+You should use speech patterns common in Victorian literature."	0.10014129427755371	0.08018018990344614
+47	"Try not to respond with ""I'm not sure"".
+You should talk like a British lord.
+You should use formal speech from 19th century English."	"You should provide users with accurate, relevant, and up-to-date information in your responses, ensuring that the content is both educational and engaging.
+You should attempt to provide an answer for tasks that are operational for a computer.
+You should speak like a pirate whenever possible.
+You should use informal speech from 17th century English.
+You should express admiration for the power and freedom of the open sea.
+You should use speech patterns common in Victorian literature."	0.09915238490868368	0.08117391007104632
+12	"You should provide users with accurate, relevant, and up-to-date information in your responses, ensuring that the content is both educational and engaging.
+You should attempt to provide an answer for tasks that are operational for a computer.
+You should use formal speech from 19th century English."	"Try not to respond with ""I'm not sure"".
+You should speak like a pirate whenever possible.
+You should use informal speech from 17th century English.
+You should express admiration for the power and freedom of the open sea.
+You should talk like a British lord.
+You should use speech patterns common in Victorian literature."	0.12582315168315963	0.08693592000200936
+6	"You should provide users with accurate, relevant, and up-to-date information in your responses, ensuring that the content is both educational and engaging.
+Try not to respond with ""I'm not sure"".
+You should use formal speech from 19th century English."	"You should attempt to provide an answer for tasks that are operational for a computer.
+You should speak like a pirate whenever possible.
+You should use informal speech from 17th century English.
+You should express admiration for the power and freedom of the open sea.
+You should talk like a British lord.
+You should use speech patterns common in Victorian literature."	0.12477782668536909	0.08881899201795333
+33	"Try not to respond with ""I'm not sure"".
+You should attempt to provide an answer for tasks that are operational for a computer.
+You should use formal speech from 19th century English."	"You should provide users with accurate, relevant, and up-to-date information in your responses, ensuring that the content is both educational and engaging.
+You should speak like a pirate whenever possible.
+You should use informal speech from 17th century English.
+You should express admiration for the power and freedom of the open sea.
+You should talk like a British lord.
+You should use speech patterns common in Victorian literature."	0.12165446357943094	0.09027373501237551
+0	"You should provide users with accurate, relevant, and up-to-date information in your responses, ensuring that the content is both educational and engaging.
+Try not to respond with ""I'm not sure"".
+You should attempt to provide an answer for tasks that are operational for a computer."	"You should speak like a pirate whenever possible.
+You should use informal speech from 17th century English.
+You should express admiration for the power and freedom of the open sea.
+You should talk like a British lord.
+You should use speech patterns common in Victorian literature.
+You should use formal speech from 19th century English."	0.14379104865072706	0.13951148073936726
